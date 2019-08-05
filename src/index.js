@@ -17,7 +17,7 @@ function buildMenu(menuCollections) {
 }
 
 
-/* theme button*/
+/* theme button____________________________________________*/
 const Theme = {
   LIGHT: 'light-theme',
   DARK: 'dark-theme',
